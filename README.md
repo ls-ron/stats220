@@ -1,8 +1,8 @@
 # This is my first project for my Stats220 course at UOA learning markdown
 *My goals with this course:*
 1. learn how to program in R
-2. analyse data using R
-3. present the analysis through R utilising modern technologies like HTML and CSS
+2. use R to create web pages
+3. Utilise modern technologies like HTML and CSS to make better web pages
 
 **hopefully this course teaches me the aforementioned skills**
 
